@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Sridhar reddi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -16,7 +15,7 @@
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 <p align="left">
 <a href="https://twitter.com/sridharreddi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sridharreddi2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sridhar reddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sridhar reddi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sridhar-reddi-9551b7282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sridhar-reddi-9551b7282" height="30" width="40" /></a>
 <a href="https://instagram.com/sridhar.reddi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sridhar.reddi_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sridharreddi019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sridharreddi019" height="30" width="40" /></a>
 </p>
