@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to contribute for **Open-source Organizations**
 
-- 💬 Ask me about **FullStack**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **sridharreddi000@gmail.com**
 
